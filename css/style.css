@@ -814,6 +814,32 @@ input[type="text"]:focus,input[type="email"]:focus, input[type="search"]:focus, 
 .sticky-header .logo{
   position: relative;
   padding: 10px 0px 10px 0px;
+   
+}
+
+/*
+.logo{
+     border: solid 1px red;
+    height: 100px;
+    width: 250px;
+}
+
+.img_logo{
+    height: 80px;
+    width: 50px;
+    border: solid 1px  black;
+}
+.img_txt {
+    border: solid 1px  black;
+}
+*/
+
+.logo_txt1 {
+   color: red;
+}
+hr {
+    width: 0px;
+    padding: 0px;
 }
 .sticky-header .info-box {
   padding: 28px 0px 28px 0px;
@@ -1151,7 +1177,7 @@ input[type="text"]:focus,input[type="email"]:focus, input[type="search"]:focus, 
 
 .help-us{
   position: relative;
-  background: url(../images/home/help-us.jpg);
+  background: url(../images/home/help-us.JPG);
   width: 100%;
   background-size: cover;
   background-position: center center;
@@ -1458,7 +1484,7 @@ input[type="text"]:focus,input[type="email"]:focus, input[type="search"]:focus, 
 
 .testimonials{
   position: relative;
-  background: url(../images/home/testimonials-bg.jpg);
+/*  background: url(../images/home/testimonials-bg.jpg);*/
   width: 100%;
   padding-bottom: 80px;
   background-size: cover;
@@ -1865,15 +1891,18 @@ input[type=checkbox], input[type=radio] {
   background: #2b2e31;
   width: 100%;
   background-size: cover;
-  padding: 100px 0px 0px 0px;
+  padding: 0px;
 }
 .footer-top-area{
   position: relative;
   display: inline-block;
-  padding: 30px 60px 30px 53px;
+  padding: 30px;
+/*
   background: #3c4042;
   border: 1px solid #6b6d6f;
+*/
   width: 100%;
+  margin: 30px auto;
 }
 .footer-top-area .footer-socila li h4{
   color: #fff;
@@ -1882,9 +1911,10 @@ input[type=checkbox], input[type=radio] {
   top: 2px;
 }
 .footer-top-area .footer-socila{
-  position: relative;
-  display: inline-block;
+/*  position: relative;*/
   top: 5px;
+   padding-left: 28%;
+    
 }
 .footer-top-area .footer-socila:before{
   position: absolute;

@@ -3070,3 +3070,11 @@ input[type=checkbox], input[type=radio] {
 .error-section a.btn-one{
   padding: 10px 20px 11px 21px;
 }
+
+
+.ifrm {
+  margin: 0 auto;
+  display: block;
+    width: 100%;
+    height: 100%;
+}

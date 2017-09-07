@@ -1226,13 +1226,13 @@ hr {
   transition: all 500ms ease;
 }
 .help-us .single-item.two{
-  margin: 0px 0px 0px 13px;
+  margin: 0 auto;
 }
 .help-us .single-item.three{
-  margin: 0px 0px 0px 27px;
+    margin: 0 auto;
 }
-.help-us .single-item.four{
-  float: right;
+.help-us .single-item.one{
+    margin: 0 auto;
 }
 
 /** img-gallery **/

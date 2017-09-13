@@ -557,7 +557,9 @@ input[type="text"]:focus,input[type="email"]:focus, input[type="search"]:focus, 
   color: #444444;
   font-weight: 400;
     width: 80%;
+    display: inline-block;
 }
+
 .headerText span {
     color: #ec2e58;
      font-size: 1.6em;

@@ -24,3 +24,22 @@ TODO:
 -[ ] Edit photos to have the same size
 -[ ] Edit the bio for the same size
 
+
+Oct/27/18 
+- [] Home (edit text) - p3
+- [x] Apply 
+- [x] team 
+      - Our team (edit css) P3
+      - Join team 
+- [ ] projects 
+      - Past project (add extra) p3
+      - comming up (take out) p1
+      
+ - [] Taken out blog p1
+ - [x] contacts (take out social media) p3
+ - [ ] text if donate works 
+ 
+ 
+ [] store all google sheet file in one folder 
+ [] put it up 
+ 
